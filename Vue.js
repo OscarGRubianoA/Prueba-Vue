@@ -2,7 +2,7 @@ const{createApp}=Vue
 createApp({
     data(){
      return{
-      players:["Adrian Ramos","Victor Ibarbo","Edwin Cardona","Andres Sarmiento","Josen Escobar"],
+      players:["Adrian Ramos","Victor Ibarbo","Edwin Cardona","Andres Sarmiento","Josen Escobar","Facundo Suarez"],
       numbers:[9,18,10] 
         
      }}
