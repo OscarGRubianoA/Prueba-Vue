@@ -11,7 +11,7 @@ createApp({
             for(let i = 0 ; i < array.length ; i++){
                 
                 if(array[i] === array[0]){
-                 acum ++
+                 acum++
                 }
                 
                 }console.log($([i]+1)+":"+" "+ $(acum))
