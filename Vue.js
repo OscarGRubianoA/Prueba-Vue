@@ -14,7 +14,7 @@ createApp({
                  acum++
                 }
                 
-                }console.log($([i]+1) + " : " + "  " + $(acum))
+                }console.log($([i]+1) + " : " + " " + $(acum))
                 
             }
             histograma(myArray)
